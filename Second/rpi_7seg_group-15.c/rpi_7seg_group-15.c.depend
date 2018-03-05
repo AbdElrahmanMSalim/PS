@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\abdel\desktop\programming\rpi_7seg_group-15.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

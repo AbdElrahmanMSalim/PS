@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513450583 source:c:\users\abdel\desktop\programming\free ice cream\main.cpp
+	<iostream>
+	<string>
+	<queue>
+

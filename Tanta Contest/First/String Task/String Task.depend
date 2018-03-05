@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519325316 source:c:\users\abdel\desktop\programming\tanta contest\string task\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+

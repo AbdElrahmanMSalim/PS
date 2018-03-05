@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519505971 source:c:\users\abdel\desktop\programming\tanta contest\wasted time\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

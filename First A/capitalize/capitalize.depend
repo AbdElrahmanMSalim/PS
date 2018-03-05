@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511916828 source:c:\users\abdel\desktop\programming\capitalize\main.cpp
+	<iostream>
+	<string>
+
